@@ -15,6 +15,6 @@ When I'm not coding, I'm usually exploring new technologies, refining project id
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=adityapachaury&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=adityapachaury&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
